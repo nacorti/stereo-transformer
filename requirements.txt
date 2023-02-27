@@ -4,11 +4,11 @@ scikit-learn
 tqdm
 albumentations
 jupyterlab
-matplotlib
+#matplotlib
 natsort
 scikit-image>=0.16.1
 tensorboardx
 tensorboard
 torchcontrib
 tifffile
-pygit2
+#pygit2
